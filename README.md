@@ -16,7 +16,6 @@
 * stata
 * TEJ
 * MATLAB
-<hr>
 
 ## Document Processing
 * excel
