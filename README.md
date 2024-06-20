@@ -12,6 +12,23 @@
 * 初階外匯人員
 * 初階授信人員
 
+### Data Analysis
+* stata
+* TEJ
+* MATLAB
+
+### Document Processing
+* excel
+* word
+* canva
+
+### Relevant Experience
+* 大學畢業專題
+* 輔大醫院投資案分析
+* 金融機器學習實作營
+* 2023挺好campus社群商務競賽
+
+
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
