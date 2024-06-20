@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carolkao2258
 - 🌱 I’m currently learning Finance
 
-- 
+- 我的經歷
 
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
