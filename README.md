@@ -52,7 +52,7 @@
       * 透過與公益機構互動，學習如何與他人用信件聯繫
       * 透過成果報告書與日常貼文的製作，瞭解如何視覺化呈現資訊
       * 透過經營社交媒體-心，與你童在(包含instagram與facebook平台)，了解如何撰寫文案，並得知如何利用canva製作圖片
-      *  facebook 平台網址: https://reurl.cc/OMagLy
+      *  facebook 平台網址: https://www.facebook.com/p/%E5%BF%83%E8%88%87%E4%BD%A0%E7%AB%A5%E5%9C%A8-100090892175567/?paipv=0&eav=AfZ4UTSWaZu0xIUulxj5gOdi45tI_W0TGrBsvh7- AcSdVqNiHt_iSi3KrxYFRicGhSU&_rdr
     
 
 
