@@ -12,17 +12,17 @@
 * 初階外匯人員
 * 初階授信人員
 
-### Data Analysis
+## Data Analysis
 * stata
 * TEJ
 * MATLAB
 
-### Document Processing
+## Document Processing
 * excel
 * word
 * canva
 
-### Relevant Experience
+## Relevant Experience
 -  大學畢業專題 <BR>
    * 網路通訊產業之產業概況與財報分析 <BR>
 
