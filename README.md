@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Carol
 我是高佳煒，從嘉義大學經濟系畢業之後，現在在輔仁大學金融所就讀。於大學期間有參與財務分析專題與NPO CHANNEL的競賽，研究所期間有參與機器學習營隊與醫院投資案，期望透過這些活動的參與，更加深入財務領域，並獲得更多實務經驗，應用在未來的工作或實習當中。
+<hr>
 
 ## My Certification 
 * 信託業業務人員
@@ -11,16 +12,19 @@
 * 衍伸性商品銷售人員
 * 初階外匯人員
 * 初階授信人員
+<hr>
 
 ## Data Analysis
 * stata
 * TEJ
 * MATLAB
+<hr>
 
 ## Document Processing
 * excel
 * word
 * canva
+<hr>
 
 ## Relevant Experience
   ### 大學畢業專題 <BR>
