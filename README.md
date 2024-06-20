@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Carol
 目前正就讀於輔仁大學研究所，大學畢業於嘉義大學，於大學期間有參與財務分析專題與NPO CHANNEL的競賽，研究所期間有參與機器學習營隊與醫院投資案
 
-### My Certification 
+## My Certification 
 * 信託業業務人員
 * 人身保險業務員
 * 投信投顧相關法規
@@ -17,12 +17,12 @@
 * TEJ
 * MATLAB
 
-### Document Processing
+## Document Processing
 * excel
 * word
 * canva
 
-### Relevant Experience
+## Relevant Experience
 -  大學畢業專題 <BR>
    * 網路通訊產業之產業概況與財報分析 <BR>
 
