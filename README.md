@@ -59,7 +59,7 @@
      * 透過實務操作，了解如何使用成本法或收益法來評鑑企業價值
      * 利用案例分析深入探索綠能產業，以及該產業的商業模式
      * 學習如何以專業的方法(專利權節省法)來評價專利權價值
-     * 透過分組合作，學習如何與同儕與上司溝通，並表達看法
+     * 透過分組合作，學習如何與同儕與上司溝通，並表達對事情的看法
 
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
