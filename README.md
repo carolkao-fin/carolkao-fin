@@ -53,7 +53,13 @@
       * 透過經營社交媒體-心，與你童在(包含instagram與facebook平台)，了解如何撰寫文案，並得知如何利用canva製作圖片
       * facebook平台網址 : https://reurl.cc/OMagLy
     
+### 若水數位評價實習
+  #### 無形資產的評價與併購案分析
 
+     * 透過實務操作，了解如何使用成本法或收益法評鑑企業價值
+     * 利用案例分析深入探索綠能產業，以及該產業的商業模式
+     * 學習如何以權利金節省法評價專利權價值
+     * 透過分組合作，學習如何與同儕與上司溝通
 
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
