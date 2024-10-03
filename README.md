@@ -53,13 +53,19 @@
       * 透過經營社交媒體-心，與你童在(包含instagram與facebook平台)，了解如何撰寫文案，並得知如何利用canva製作圖片
       * facebook平台網址 : https://reurl.cc/OMagLy
     
-### 若水數位評價實習生
-  #### 無形資產的評價與併購案分析
+### 若水數位評價實習生 <BR>
+  #### 無形資產的評價與併購案分析 <BR>
 
      * 透過實務操作，了解如何評價企業價值與專利權價值
      * 利用案例分析深入探索綠能產業，以及該產業的商業模式
      * 透過分組合作，學習如何與同儕與上司溝通，表達對事情的看法
 
+### 參與期貨與選擇權期刊投稿 <BR>
+  #### 金融業專利權之效益分析 <BR>
+
+     * 經由文獻的閱讀，了解國內專利權發展的近況與對金融業的應用
+     * 學習如何蒐集與整理資料，並利用數據佐證欲表達的論點
+     * 透過與教授討論，闡述對此議題的看法，將觀點融入論述當中
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
