@@ -66,6 +66,7 @@
      * 經由文獻的閱讀，了解國內專利權發展的近況與對金融業的應用
      * 學習如何蒐集與整理資料，並利用數據佐證欲表達的論點
      * 透過與教授討論，闡述對此議題的看法，將觀點融入論述當中
+
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
