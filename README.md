@@ -16,6 +16,7 @@
 * stata
 * TEJ
 * MATLAB
+* SAS
 
 ## Document Processing
 * excel
@@ -60,13 +61,26 @@
      * 利用案例分析深入探索綠能產業，以及該產業的商業模式
      * 透過分組合作，學習如何與同儕與上司溝通，表達對事情的看法
 
-### 參與期貨與選擇權期刊投稿 <BR>
+### 參與期貨與選擇權期刊投稿入選 <BR>
   #### 金融業專利權之效益分析 <BR>
 
      * 經由文獻的閱讀，了解國內專利權發展的近況與對金融業的應用
      * 學習如何蒐集與整理資料，並利用數據佐證欲表達的論點
      * 透過與教授討論，闡述對此議題的看法，將觀點融入論述當中
 
+### 2024 TiC100 社會創新實踐家工作人員 <BR>
+  #### 協助計分作業與協助活動進行 <BR>
+
+     * 了解評分標準，並完成eexcel計分表的製作
+     * 隨時觀察現場狀況，並對此做出適當的因應
+     * 參與決選過程，將資訊整理並呈現
+     
+### 2024 台灣社會企業學術研討會工作人員 <BR>
+  #### 協助計分與提供活動支援 <BR>
+
+     * 因應評審意見修正評分表，並整理最終決議結果
+     * 擔任接待人員，協助報到引導各項事宜
+     * 針對突發狀況隨時因應處理
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
