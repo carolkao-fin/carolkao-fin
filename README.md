@@ -52,7 +52,7 @@
       * 透過與公益機構互動，學習如何與他人用信件聯繫
       * 透過成果報告書與日常貼文的製作，瞭解如何視覺化呈現資訊
       * 透過經營社交媒體-心，與你童在(包含instagram與facebook平台)，了解如何撰寫文案，並得知如何利用canva製作圖片
-  facebook平台網址：[我的頁面](https://reurl.cc/OMagLy)
+  facebook平台網址：[點擊連結](https://reurl.cc/OMagLy)
 
 ### 若水數位評價實習生 <BR>
   #### 無形資產的評價與併購案分析 <BR>
@@ -69,7 +69,7 @@
      * 透過與教授討論，闡述對此議題的看法，將觀點融入論述當中
      * 以共同作者身分參與「2024 NEW FUTURES期貨學術交流與實務交流研討會」，協助簡報製作與其他事項
      * 透過主題論壇與論文發表，了解金融科技、人工智慧、ESG、期貨市場發展與經濟相關議題
- 相關資訊：[我的頁面](http://ms.fib.fju.edu.tw/index.php?action=ix-detail&cid=18&id=288)
+ 相關資訊：[點擊連結](http://ms.fib.fju.edu.tw/index.php?action=ix-detail&cid=18&id=288)
 
 ### 金融程式應用課程-TEJ交易策略競賽入選 <BR>
   #### Python交易策略構思與分析 <BR>
