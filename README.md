@@ -69,7 +69,7 @@
      * 透過與教授討論，闡述對此議題的看法，將觀點融入論述當中
      * 以共同作者身分參與「2024 NEW FUTURES期貨學術交流與實務交流研討會」，協助簡報製作與其他事項
      * 透過主題論壇與論文發表，了解金融科技、人工智慧、ESG、期貨市場發展與經濟相關議題
- 相關資料：[我的頁面](http://ms.fib.fju.edu.tw/index.php?action=ix-detail&cid=18&id=288)
+ 相關資訊：[我的頁面](http://ms.fib.fju.edu.tw/index.php?action=ix-detail&cid=18&id=288)
 
 ### 金融程式應用課程-TEJ交易策略競賽入選 <BR>
   #### Python交易策略構思與分析 <BR>
