@@ -53,6 +53,7 @@
       * 透過成果報告書與日常貼文的製作，瞭解如何視覺化呈現資訊
       * 透過經營社交媒體-心，與你童在(包含instagram與facebook平台)，了解如何撰寫文案，並得知如何利用canva製作圖片
       * facebook平台網址 : https://reurl.cc/OMagLy
+      *[facebook平台網址](https://reurl.cc/OMagLy)
     
 ### 若水數位評價實習生 <BR>
   #### 無形資產的評價與併購案分析 <BR>
