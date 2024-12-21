@@ -54,7 +54,7 @@
       * 透過經營社交媒體-心，與你童在(包含instagram與facebook平台)，了解如何撰寫文案，並得知如何利用canva製作圖片
       * facebook平台網址 : https://reurl.cc/OMagLy
       * facebook平台網址:[我的頁面](https://reurl.cc/OMagLy)
-      * facebook平台網址：<a href="https://reurl.cc/OMagLy" target="_blank">我的頁面</a>
+        facebook平台網址：<a href="https://reurl.cc/OMagLy" target="_blank">我的頁面</a>
     </p>
 </body>
 </html>
