@@ -114,12 +114,13 @@
      * 觀察試場狀況，即時回饋予面試官
      * 適時協助秘書處理相關事項
 
- ### 整合管理課程與各科目之教學助理 <BR>
+ ### 整合管理課程與其他科目之教學助理 <BR>
    #### 協助各項事務並完成交辦事項 <BR>
 
      * 擔任秘書的角色，與工讀生溝通並適時提供協助
      * 幫忙桌牌、成績表與計分表的製作，與其他課程所需資料
      * 完整傳達秘書交辦的任務，並確實執行
+     * 解答班上同學的疑問，並成為與老師溝通的橋樑
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
