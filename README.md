@@ -21,6 +21,7 @@
 * MATLAB
 * SAS
 * Frontier4.1
+* python
 
 ## Document Processing
 * excel
