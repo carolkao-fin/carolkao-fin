@@ -142,6 +142,8 @@
      * 協助證照報名，教導同學如何使用系統
      * 幫忙課堂點名，並適時提供講師協助
      * 替同學解惑，並完成秘書與老師的交辦事項
+
+     <img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?carolkao2258=[carolkao2258]&theme=vue-dark&line_height=22&layout=compact&hide=less" />
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
