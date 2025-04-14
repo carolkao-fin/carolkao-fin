@@ -36,11 +36,13 @@
 * SAS
 * Frontier4.1
 * python
+* TSP5.1
 
 ## Document Processing
 * excel
 * word
 * canva
+* GitMind
 
 ## Relevant Professional Experience
   ### 大學畢業專題 <BR>
