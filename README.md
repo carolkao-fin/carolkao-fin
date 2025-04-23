@@ -151,12 +151,19 @@
      * 完整傳達秘書交辦的任務，並確實執行
      * 解答班上同學的疑問，並成為與老師溝通的橋樑
 
-  ### 金融與投資概論、國際貿易實務之教學助理 <BR>
+ ### 金融與投資概論、國際貿易實務之教學助理 <BR>
    #### 協助證照報名並完成交辦事項 <BR>
 
      * 協助證照報名，教導同學如何使用系統
      * 幫忙課堂點名，並適時提供講師協助
      * 替同學解惑，並完成秘書與老師的交辦事項
+
+ ### 企業倫理課程之教學助理 <BR>
+   #### 協助各項事務並完成交辦事項 <BR>
+
+     * 擔任工作人員，協助活動的進行
+     * 紀錄講師講述的內容，並撰寫新聞稿
+     * 維持學校課程系統，宣布相關注意事項
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
