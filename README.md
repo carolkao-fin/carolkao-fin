@@ -36,7 +36,7 @@
 * SAS
 * Frontier4.1
 * python
-* TSP5.1
+* TSP version5.1
 
 ## Document Processing
 * excel
