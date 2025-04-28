@@ -164,6 +164,7 @@
      * 擔任工作人員，協助活動的進行
      * 紀錄講師講述的內容，並撰寫新聞稿
      * 維持學校課程系統，宣布相關注意事項
+新聞稿平台網址：[點擊連結](https://www.facebook.com/share/p/19HFVRxhh9/)
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
