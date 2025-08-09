@@ -187,6 +187,11 @@
      * 紀錄講師講述的內容，並撰寫新聞稿
      * 維持學校課程系統，宣布相關注意事項
 新聞稿平台網址：[點擊連結](https://www.facebook.com/share/p/19HFVRxhh9/)
+
+ ### 台灣經濟研究院小編 <BR>
+   #### 協助上架活動、文章並完成交辦事項 <BR>
+
+     * 搜尋與永續或創業相關之文章，上架至社創平台
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
