@@ -38,6 +38,7 @@
 * Frontier4.1
 * python
 * TSP version5.1
+* eviews
 
 ## Document Processing
 * excel
