@@ -2,15 +2,15 @@
 我是高佳煒，從嘉義大學經濟系畢業之後，現在在輔仁大學金融與國際企業研究所就讀。於大學期間有參與財務分析專題與NPO CHANNEL的競賽，研究所期間有參與機器學習營隊、醫院投資案與期貨與選擇權期刊投稿，近期有參與金融科技相關的提案競賽，與金融專題研討的專題。期望透過這些活動的參與，更加深入財務領域，培養解決問題的能力，並獲得更多實務與各方面的經驗，應用在未來的工作或實習當中。
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=carolkao2258&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=carolkao2258&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/carolkao2258/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolkao2258&layout=compact"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=carolkao-fin&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=carolkao-fin&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/carolkao-fin/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolkao-fin&layout=compact"/></a>
 </p>
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/carolkao2258/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=carolkao2258&color=DE002D">
+   <a href="https://github.com/carolkao-fin/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=carolkao-fin&color=DE002D">
    </a>
 </div>
 
