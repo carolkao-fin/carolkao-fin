@@ -193,6 +193,7 @@
    #### 協助上架活動、文章並完成交辦事項 <BR>
 
      * 搜尋與永續或創業相關之文章，上架至社創平台
+     * 協助建立文章比對SOP，並規劃特定事項
 社創平台網址：[點擊連結](https://startup.sme.gov.tw/sitaiwan/)
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
