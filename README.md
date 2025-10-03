@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Carol
-我是高佳煒，從嘉義大學經濟系畢業之後，現在在輔仁大學金融與國際企業研究所就讀。於大學期間有參與財務分析專題與NPO CHANNEL的競賽，研究所期間有參與機器學習營隊、醫院投資案與期貨與選擇權期刊投稿，近期有參與金融科技相關的提案競賽，與金融專題研討的專題。期望透過這些活動的參與，更加深入財務領域，培養解決問題的能力，並獲得更多實務與各方面的經驗，應用在未來的工作或實習當中。
+我是高佳煒，大學就讀於嘉義大學經濟系，碩士畢業於輔仁大學金融與國際企業學系。於大學期間有參與財務分析專題與NPO CHANNEL的競賽，碩一期間有參與機器學習營隊、醫院投資案與期貨與選擇權期刊投稿，於碩二有參與金融科技相關的提案競賽，與金融專題研討的專題。近期於經濟部開設之AI專班受訓，同時在台經院擔任小編，同時協助將作業自動化，期望透過這些技能的培養，增進解決問題的能力，並將目前所學之AI技術，應用在未來的工作或實習當中。
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=carolkao-fin&show_icons=true&count_private=true">
@@ -193,7 +193,8 @@
    #### 協助上架活動、文章並完成交辦事項 <BR>
 
      * 搜尋與永續或創業相關之文章，上架至社創平台
-     * 協助建立文章比對SOP，並規劃特定事項
+     * 協助建立文章比對ERP流程，並規劃未來發展方向
+     * 經營IT幫幫忙 line@ 平台，規劃文章排程
 社創平台網址：[點擊連結](https://startup.sme.gov.tw/sitaiwan/)
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
