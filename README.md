@@ -196,6 +196,13 @@
      * 協助建立文章比對ERP流程，並規劃未來發展方向
      * 經營IT幫幫忙 line@ 平台，規劃文章排程
 社創平台網址：[點擊連結](https://startup.sme.gov.tw/sitaiwan/)
+
+ ### 天主教輔仁大學計量輔導老師 <BR>
+   #### 輔導碩一同學計量課程內容 <BR>
+
+     * 輔導碩士班學生了解計量經濟學的核心概念(假設檢定、模型推導)
+     * 將複雜的理論轉化為容易理解的邏輯，讓同學了解背後的意涵
+     * 協助同學實作TSP5.1的操作，並解釋相關邏輯
 <!---
 carolkao2258/carolkao2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
