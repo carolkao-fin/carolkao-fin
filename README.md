@@ -40,7 +40,6 @@
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<!-- 左卡片 -->
 <div style="
   flex:1; min-width:270px;
   background:#f7f7f7;
@@ -61,7 +60,6 @@
 </ul>
 </div>
 
-<!-- 右卡片 -->
 <div style="
   flex:1; min-width:270px;
   background:#f7f7f7;
@@ -90,7 +88,6 @@
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<!-- Data Analysis -->
 <div style="
   flex:1; min-width:270px;
   background:#f7f7f7;
@@ -112,7 +109,6 @@
 </ul>
 </div>
 
-<!-- Document -->
 <div style="
   flex:1; min-width:270px;
   background:#f7f7f7;
@@ -135,16 +131,9 @@
 ---
 
 # 💼 Relevant Professional Experience  
-> ✔ **此大段會非常長，我將每一項都做成全寬卡片並完整保留原文**  
-> ✔ **內容皆不刪減、不合併**  
-> ✔ **完全依你原本順序呈現**
 
----
-
-## 📘 Finance & Research  
 <div style="display:flex; flex-direction:column; gap:22px;">
 
-<!-- 大學專題 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid #ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>大學畢業專題</h3>
 <h4>網路通訊產業之產業概況與財報分析</h4>
@@ -155,7 +144,6 @@
 </ul>
 </div>
 
-<!-- 醫院投資案 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid #ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>塭仔圳輔大醫院投資案分析</h3>
 <h4>投資案的財務預測與投資評估</h4>
@@ -166,7 +154,6 @@
 </ul>
 </div>
 
-<!-- 金融機器學習營 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid #ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>金融機器學習實作營</h3>
 <h4>借貸績效第二名</h4>
@@ -177,7 +164,6 @@
 </ul>
 </div>
 
-<!-- 挺好Campus 公益競賽 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid #ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>2023 挺好 Campus 社群商務競賽</h3>
 <h4>公益行銷獎第一名 / 公益募款獎佳作</h4>
@@ -185,12 +171,11 @@
   <li>透過街頭宣傳與募款，學習如何與民眾溝通</li>
   <li>透過與公益機構互動，學習如何與他人用信件聯繫</li>
   <li>透過成果報告書與日常貼文的製作，瞭解如何視覺化呈現資訊</li>
-  <li>經營社交媒體「心，與你童在」（IG / Facebook），練習文案撰寫與 Canva 圖像製作</li>
+  <li>經營社交媒體心，與你童在（含 Instagram / Facebook），撰寫文案並製作 Canva 內容</li>
 </ul>
 Facebook 平台網址：<a href="https://reurl.cc/OMagLy">點擊連結</a>
 </div>
 
-<!-- 若水數位 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid #ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>若水數位評價實習生</h3>
 <h4>無形資產的評價與併購案分析</h4>
@@ -198,54 +183,50 @@ Facebook 平台網址：<a href="https://reurl.cc/OMagLy">點擊連結</a>
   <li>透過實務操作，了解如何評價企業價值與專利權價值</li>
   <li>利用案例分析深入探索綠能產業，以及該產業的商業模式</li>
   <li>瞭解何謂併購案，並於總結報告提出併購相關建議</li>
-  <li>分組合作，學習與同儕與上司溝通與表達</li>
+  <li>透過分組合作，學習如何與同儕與上司溝通，表達對事情的看法</li>
 </ul>
 </div>
 
-<!-- NEW FUTURES -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid #ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>參與期貨與選擇權期刊投稿入選</h3>
 <h4>金融業專利權之應用與效益分析</h4>
 <ul>
-  <li>閱讀文獻，了解國內專利權與金融產業發展</li>
-  <li>蒐集資料、利用數據佐證論點</li>
-  <li>討論研究架構並融入觀點</li>
-  <li>擔任共同作者參與 2024 NEW FUTURES 研討會，協助簡報與會務</li>
-  <li>了解金融科技、AI、ESG、期貨市場等議題</li>
+  <li>經由文獻的閱讀，了解國內專利權發展的近況與對金融業的應用</li>
+  <li>學習如何蒐集與整理資料，並利用數據佐證欲表達的論點</li>
+  <li>透過與教授討論，闡述對此議題的看法，將觀點融入論述當中</li>
+  <li>以共同作者身分參與 2024 NEW FUTURES 研討會，協助簡報製作與其他事項</li>
+  <li>了解金融科技、人工智慧、ESG、期貨市場發展與經濟相關議題</li>
 </ul>
 相關資訊：<a href="http://ms.fib.fju.edu.tw/index.php?action=ix-detail&cid=18&id=288">點擊連結</a>
 </div>
 
-<!-- 生產力效率研討會 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>參與生產力與效率研討會投稿入選</h3>
 <h4>台灣證券業專利權對效率與市場力量影響之研析</h4>
 <ul>
-  <li>透過資料蒐集，了解證券業專利權發展趨勢</li>
-  <li>使用 TEJ / SAS / Stata 進行分析</li>
-  <li>擔任研究發表者</li>
+  <li>透過資料蒐集，了解證券業專利權發展趨勢與方向</li>
+  <li>使用TEJ、SAS、stata等工具，完成資料分析並撰寫研究報告</li>
+  <li>擔任發表人，闡述文章要傳達的內容並回應相關疑問</li>
 </ul>
 </div>
 
-<!-- TEJ 策略競賽 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
-<h3>金融程式應用課程 - TEJ 交易策略競賽入選</h3>
-<h4>Python 交易策略構思與分析</h4>
+<h3>金融程式應用課程-TEJ 交易策略競賽入選</h3>
+<h4>Python交易策略構思與分析</h4>
 <ul>
-  <li>透過文獻研究策略有效性</li>
-  <li>整合想法與程式，完成策略驗證</li>
-  <li>與同儕討論並整合成果</li>
+  <li>透過文獻研究，了解交易策略的有效性與應用</li>
+  <li>將想法與程式碼做結合，嘗試應用於實務中</li>
+  <li>與同儕討論並交流想法，整合為最終的成果</li>
 </ul>
 </div>
 
-<!-- Fintech 防詐 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
-<h3>金融科技講座課程提案競賽</h3>
-<h4>運用 FinTech 防治金融詐騙</h4>
+<h3>金融科技講座課程-提案競賽</h3>
+<h4>運用fintech防治金融詐騙</h4>
 <ul>
-  <li>分析財損資料與詐騙現況</li>
-  <li>找出痛點並提出改善建議</li>
-  <li>攜同組員提出流程設計並繪製流程圖</li>
+  <li>透過分析防詐財損金額、件數了解現況，並提出有利於打擊詐騙的想法</li>
+  <li>發現國內防詐的痛點，並參考國外類似案例，提出改善的建議</li>
+  <li>整合組內意見，並繪製流程圖，方便組員、業師、教授了解提案的具體想法</li>
 </ul>
 </div>
 
@@ -256,136 +237,128 @@ Facebook 平台網址：<a href="https://reurl.cc/OMagLy">點擊連結</a>
 # 🤝 Other Relevant Experience  
 <div style="display:flex; flex-direction:column; gap:22px;">
 
-<!-- TiC100 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>2024 TiC100 社會創新實踐家工作人員</h3>
 <h4>協助計分作業與協助活動進行</h4>
 <ul>
-  <li>了解評分標準，完成 excel 計分表製作</li>
-  <li>觀察現場並即時回饋</li>
-  <li>參與決選並整理資訊</li>
+  <li>了解評分標準，完成excel計分表的製作</li>
+  <li>隨時觀察現場狀況，對此做出適當的因應與回饋</li>
+  <li>參與決選過程，將資訊整理並呈現予評審</li>
 </ul>
 </div>
 
-<!-- 社企研討會 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>2024 台灣社會企業學術研討會工作人員</h3>
-<h4>活動支援與計分</h4>
+<h4>提供活動支援並協助計分</h4>
 <ul>
-  <li>依評審意見調整計分表</li>
-  <li>協助接待與現場管理</li>
-  <li>即時處理突發狀況</li>
+  <li>因應評審意見修正計分表，並整理最終決議結果</li>
+  <li>擔任接待人員，協助報到引導各項事宜</li>
+  <li>針對突發狀況隨時應對處理</li>
 </ul>
 </div>
 
-<!-- SEIE TALK -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>2024 SEIE TALK 社創年會工作人員</h3>
-<h4>協助計分與活動支援</h4>
+<h4>協助計分作業與協助活動進行</h4>
 <ul>
-  <li>場內計時與提醒講者</li>
-  <li>擔任頒獎人員</li>
-  <li>處理現場狀況</li>
+  <li>協助場內計時，適時提醒講者</li>
+  <li>擔任頒獎人員，協助遞交獎牌與感謝狀</li>
+  <li>即時回應現場的狀況</li>
 </ul>
 </div>
 
-<!-- 2025 明緯永續 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>2025 明緯永續創新實踐家工作人員</h3>
-<h4>協助計分與設備維護</h4>
+<h4>協助計分作業與設備維護</h4>
 <ul>
-  <li>依評審需求完成評分表</li>
-  <li>協助麥克風與會場設備</li>
-  <li>整理最終決選結果</li>
+  <li>根據評審要求，完成評分表的製作</li>
+  <li>協助處理會場麥克風問題，讓活動順利進行</li>
+  <li>整理最終決選結果予評審</li>
 </ul>
 </div>
-
-<!-- 金企系活動（多項合一後分卡呈現） -->
 
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>輔大金融與國際企業學系前三章發表工作人員</h3>
 <ul>
-  <li>協助計時並提醒講者</li>
-  <li>完成秘書交代事項</li>
-  <li>協助處理現場狀況</li>
+  <li>協助計時作業並提醒講者</li>
+  <li>完成秘書交代的事項</li>
+  <li>即時處理現場發生的狀況</li>
 </ul>
 </div>
 
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>輔大金企系碩士班迎新活動工作人員</h3>
 <ul>
-  <li>與同儕討論活動規劃並做紀錄</li>
-  <li>協助文案撰寫與影片拍攝</li>
-  <li>協助與教授溝通活動內容</li>
+  <li>與同儕討論活動規劃，將結果整理並做紀錄</li>
+  <li>協助撰寫文案，與影片拍攝相關事宜</li>
+  <li>闡述最終討論結果，並與教授溝通說明</li>
 </ul>
 </div>
 
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>輔大金融與國際企業學系面試試務人員</h3>
 <ul>
-  <li>擔任計時人員</li>
-  <li>帶領考生進入試場</li>
-  <li>即時回饋試場狀況</li>
+  <li>擔任計時人員，並帶領考生進入應試試場</li>
+  <li>觀察試場狀況，即時回饋予面試官</li>
+  <li>適時協助秘書處理相關事項</li>
 </ul>
 </div>
 
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>輔大金融與國際企業學系專題工作人員</h3>
 <ul>
-  <li>擔任司儀，協助維持活動流程</li>
-  <li>協助設備架設與調整</li>
-  <li>解答發表同學疑問與傳達注意事項</li>
+  <li>擔任司儀，維持活動的整體流程</li>
+  <li>協助架設、調整設備，並處理試場狀況</li>
+  <li>解答發表同學疑問，並傳達相關注意事項</li>
 </ul>
 </div>
 
-<!-- 教學助理 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>整合管理課程與其他科目之教學助理</h3>
 <ul>
-  <li>擔任秘書角色，協助工讀生與老師間溝通</li>
-  <li>製作桌牌、成績表與計分表等課程文件</li>
-  <li>協助同學解惑並協助課程運作</li>
+  <li>擔任秘書的角色，與工讀生溝通並適時提供協助</li>
+  <li>幫忙桌牌、成績表與計分表的製作，與其他課程所需資料</li>
+  <li>完整傳達秘書交辦的任務，並確實執行</li>
+  <li>解答班上同學的疑問，並成為與老師溝通的橋樑</li>
 </ul>
 </div>
 
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>金融與投資概論、國際貿易實務之教學助理</h3>
 <ul>
-  <li>協助證照報名與系統操作</li>
-  <li>協助課堂點名與協助講師</li>
-  <li>替同學解惑並完成行政事項</li>
+  <li>協助證照報名，教導同學如何使用系統</li>
+  <li>幫忙課堂點名，並適時提供講師協助</li>
+  <li>替同學解惑，並完成秘書與老師的交辦事項</li>
 </ul>
 </div>
 
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>企業倫理課程之教學助理</h3>
 <ul>
-  <li>撰寫新聞稿並紀錄講師內容</li>
-  <li>協助活動進行並處理突發狀況</li>
-  <li>維持課程系統與公告事項</li>
+  <li>擔任工作人員，協助活動的進行</li>
+  <li>紀錄講師講述的內容，並撰寫新聞稿</li>
+  <li>維持學校課程系統，宣布相關注意事項</li>
 </ul>
-新聞稿平台：<a href="https://www.facebook.com/share/p/19HFVRxhh9/">點擊連結</a>
+新聞稿平台網址：<a href="https://www.facebook.com/share/p/19HFVRxhh9/">點擊連結</a>
 </div>
 
-<!-- 社創平台 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>台灣經濟研究院社創平台小編</h3>
 <h4>協助上架活動、文章並完成交辦事項</h4>
 <ul>
-  <li>搜尋永續與創業文章並上架平台</li>
-  <li>協助建立文章比對 ERP 流程與規劃未來方向</li>
-  <li>經營 IT 幫幫忙 line@ 平台，規劃文章排程</li>
+  <li>搜尋與永續或創業相關之文章，上架至社創平台</li>
+  <li>協助建立文章比對ERP流程，並規劃未來發展方向</li>
+  <li>經營IT幫幫忙 line@ 平台，規劃文章排程</li>
 </ul>
-社創平台：<a href="https://startup.sme.gov.tw/sitaiwan/">點擊連結</a>
+社創平台網址：<a href="https://startup.sme.gov.tw/sitaiwan/">點擊連結</a>
 </div>
 
-<!-- 計量輔導老師 -->
 <div style="background:#f7f7f7; padding:22px; border-radius:16px; border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06);">
 <h3>天主教輔仁大學計量輔導老師</h3>
 <ul>
-  <li>輔導碩士班學生了解計量理論（假設檢定、模型推導）</li>
-  <li>協助 TSP5.1 操作與背後計量邏輯</li>
-  <li>將複雜概念轉為可理解的教學內容</li>
+  <li>輔導碩士班學生了解計量經濟學的核心概念(假設檢定、模型推導)</li>
+  <li>將複雜的理論轉化為容易理解的狀方式，讓同學了解背後的意涵</li>
+  <li>協助同學實作TSP5.1的操作，並解釋相關邏輯</li>
 </ul>
 </div>
 
