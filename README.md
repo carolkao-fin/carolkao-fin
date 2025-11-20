@@ -149,6 +149,7 @@ border:1px solid:#ddd; box-shadow:0 2px 10px rgba(0,0,0,0.06); margin-bottom:18p
     <li>蒐集證券業專利資料與實證分析</li>
     <li>使用 TEJ、SAS、Stata 完成模型估計</li>
     <li>擔任發表人並回應專家提問</li>
+    <li>榮獲2025年台灣效率與生產力學術研討會碩士論文「佳作」</li> 
   </ul>
 </div>
 
